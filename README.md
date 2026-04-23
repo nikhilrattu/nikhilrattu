@@ -52,19 +52,6 @@
 
 ---
 
-## 🔥 Projects
-### 🚀 Project 1
-- Problem:  
-- Solution:  
-- Tools:  
-
-### 📊 Project 2
-- Problem:  
-- Solution:  
-- Tools:  
-
----
-
 ## 🌐 Connect
 
 <p align="center"><a href="https://linkedin.com/in/nikhilrattu"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" /></a> <a href="https://github.com/nikhilrattu"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" /></a> <a href="mailto:itsnikhilrattu@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail" /></a> <a href="https://www.kaggle.com/nikhilrattu"><img src="https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle" /></a> <a href="https://medium.com/@itsnikhilrattu"><img src="https://img.shields.io/badge/Medium-111?style=for-the-badge&logo=medium" /></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome" /></a></p>
